@@ -1,6 +1,204 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    border-spacing: 0;
+}
+
 .main-container {
+    margin: 25% auto;
+    width: 50%;
+    height: 50%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-image: url(https://bit.ly/3BWN2dW);
+}
+
+.bg-black {
+    background-color: black;
+    width: 60px;
+    height: 50px;
+}
+
+.bg-teal {
+    background-color: teal;
+    width: 60px;
+    height: 50px;
+}
+
+.bg-blue {
+    background-color: blue;
+    width: 60px;
+    height: 50px;
+}
+
+.bg-navy {
+    background-color: navy;
+    width: 60px;
+    height: 50px;
+}
+
+.bg-lime {
+    background-color: lime;
+    width: 60px;
+    height: 50px;
+}
+
+.bg-white {
+    background-color: white;
+    width: 60px;
+    height: 50px;
+}
+
+.bg-purple {
+    background-color: purple;
+    width: 60px;
+    height: 50px;
+}
+
+.bg-yellow {
+    background-color: yellow;
+    width: 60px;
+    height: 50px;
+}
+
+.bg-olive {
+    background-color: olive;
+    width: 60px;
+    height: 50px;
+}
+
+.bg-red {
+    background-color: red;
+    width: 60px;
+    height: 50px;
+}
+
+.bg-gray {
+    background-color: gray;
+    width: 60px;
+    height: 50px;
+}
+
+.bg-fuchsia {
+    background-color: fuchsia;
+    width: 60px;
+    height: 50px;
+}
+
+.bg-green {
+    background-color: green;
+    width: 60px;
+    height: 50px;
+}
+
+.word-black {
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+
+.word-teal {
+    text-align: center;
+    font-size: 20px;
+    color: teal;
+}
+
+.word-blue {
+    text-align: center;
+    font-size: 20px;
+    color: blue;
+}
+
+.word-navy {
+    text-align: center;
+    font-size: 20px;
+    color: navy;
+}
+
+.word-lime {
+    text-align: center;
+    font-size: 20px;
+    color: lime;
+}
+
+.word-white {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+.word-purple {
+    text-align: center;
+    font-size: 20px;
+    color: purple;
+}
+
+.word-yellow {
+    text-align: center;
+    font-size: 20px;
+    color: yellow;
+}
+
+.word-olive {
+    text-align: center;
+    font-size: 20px;
+    color: olive;
+}
+
+.word-red {
+    text-align: center;
+    font-size: 20px;
+    color: red;
+}
+
+.word-gray {
+    text-align: center;
+    font-size: 20px;
+    color: gray;
+}
+
+.word-fuchsia {
+    text-align: center;
+    font-size: 20px;
+    color: fuchsia;
+}
+
+.word-green {
+    text-align: center;
+    font-size: 20px;
+    color: green;
+}
+
+.word-aqua {
+    text-align: center;
+    font-size: 20px;
+    color: aqua;
+}
+
+.word-silver {
+    text-align: center;
+    font-size: 20px;
+    color: silver;
+}
+
+.word-marron {
+    text-align: center;
+    font-size: 20px;
+    color: brown;
+}
+
+.list-container {
+    padding-bottom: 20px;
+}
+
+#colors-title {
+    text-align: center;
+    background-color: green;
+    height: 50px
 }
